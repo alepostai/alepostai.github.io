@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE about SYSTEM "about.dtd">
+<about>
+    <banner>
+        <title>Welcome to Bryan's Café</title>
+    </banner>
+    <description>
+        <text>We are a cozy café offering fresh and tasty meals to our community.</text>
+        <image>images/cafe.jpg</image>
+    </description>
+    <history>
+        <text>Founded in 2010, Bryan's Café has become a popular spot for food and coffee lovers.</text>
+        <image>images/history.jpg</image>
+    </history>
+</about>

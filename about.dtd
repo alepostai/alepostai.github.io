@@ -1,0 +1,7 @@
+<!ELEMENT about (banner, description, history)>
+<!ELEMENT banner (title)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (text, image)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT history (text, image)>
