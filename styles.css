@@ -1,0 +1,103 @@
+body {
+    font-family: 'Courier New', Courier, monospace, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    font-size: 32px;
+}
+h4 { 
+    font-size: 32px;
+    text-align: center;
+}
+
+header nav {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 2em;
+    background-color: #b5651d; 
+}
+
+header nav .logo img {
+    height: 80px; 
+}
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    margin-left: 50px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+.banner {
+    background-color: #e07b39;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+section {
+    margin: 20px;
+}
+footer {
+    background-color: #f0772b7b;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: flex;
+    width: 100%;
+    bottom: 0;
+}
+.menu-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+}
+
+.menu-item img {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.menu-item p {
+    margin: 0; 
+    font-size: 20px;
+}
+.menu .meals, .menu .beverages {
+    margin-top: 30px;
+}
+.menu-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.menu-item img {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
